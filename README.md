@@ -11,3 +11,9 @@ Assignments done for SMAI (Spring 2023)
 2. Principal Component Analysis and Image Classification
 3. Multinomial Naive Bayes
 4. Gaussian Naive Bayes
+
+## A3
+1. SVMs
+2. GMMs
+3. MLPs
+4. CNNs and Autoencoders
